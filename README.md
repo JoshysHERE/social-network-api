@@ -13,6 +13,7 @@ This API is built for users to add and remove friends. You can also use this API
 - npm run start
 ## License
 - MIT
-### Video Link: 
+### Video Link: https://drive.google.com/file/d/1yUaMNlJwFmD91erpnCaDjzeBz2AzlMMk/view 
+(Please download the video link)
 
 ### Github Repo Link: https://github.com/JoshysHERE/social-network-api

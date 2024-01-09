@@ -1,23 +1,18 @@
 # Social-Network-API
 
 ## Description
-
-## Table of Contents 
-n/a
+This API is built for users to add and remove friends. You can also use this API to add thoughts that you might have and react to thoughts that other users might have.
 ## Installation
+- Express
+- Mongoose
+
+
+![Social Network API](https://github.com/JoshysHERE/social-network-api/assets/141682993/87ca0bd1-7c39-44c1-bcde-2278cb89b471)
 
 ## Usage
-
+- npm run start
 ## License
-n/a
-## Badges
-n/a
-## Features
-
-## How to Contribute
-n/a
-## Tests
-
-### GitHub Pages Link: 
+- MIT
+### Video Link: 
 
 ### Github Repo Link: https://github.com/JoshysHERE/social-network-api

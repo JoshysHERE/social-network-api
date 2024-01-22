@@ -1,4 +1,4 @@
-# Social-Network-API
+# Joshy's Social-Network-API
 
 ## Description
 This API is built for users to add and remove friends. You can also use this API to add thoughts that you might have and react to thoughts that other users might have.
